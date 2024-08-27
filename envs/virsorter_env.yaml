@@ -1,3 +1,4 @@
+name: virsorter_env
 channels:
   - bioconda
   - conda-forge
