@@ -1,4 +1,4 @@
-name: MOB_suit_new
+name: mobsuite_env
 channels:
   - bioconda/label/cf201901
   - bioconda
