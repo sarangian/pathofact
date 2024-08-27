@@ -1,3 +1,4 @@
+name: r_env
 channels:
   - defaults
 dependencies:
