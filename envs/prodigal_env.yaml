@@ -1,4 +1,4 @@
-name: Prodigal
+name: prodigal_env
 channels:
   - conda-forge
   - bioconda
