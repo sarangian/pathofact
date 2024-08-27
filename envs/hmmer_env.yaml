@@ -1,3 +1,4 @@
+name: hmmer_env
 channels:
   - bioconda
   - conda-forge
