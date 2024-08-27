@@ -1,4 +1,4 @@
-name: DeepARG_env_new
+name: deeparg_env
 channels:
   - bioconda
   - conda-forge
