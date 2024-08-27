@@ -1,4 +1,4 @@
-name: PathoFact
+name: pathofact_env
 channels:
   - bioconda
   - conda-forge
