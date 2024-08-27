@@ -1,4 +1,4 @@
-name: rgi
+name: rgi_env
 channels:
   - bioconda
   - conda-forge
