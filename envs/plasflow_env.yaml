@@ -1,3 +1,4 @@
+name: plasflow_env
 channels:
   # for PlasFlow
   - smaegol
